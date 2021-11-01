@@ -6,5 +6,7 @@ The system already has some basic features and animations - Theese can be seen o
 # Screenshots
 ![image](https://i.imgur.com/yaco6zr.jpg)
 ![image](https://i.imgur.com/XQvLSGJ.jpg)
+![video](https://i.imgur.com/w1aIAlv.mp4)
+
 https://i.imgur.com/w1aIAlv.mp4
 
