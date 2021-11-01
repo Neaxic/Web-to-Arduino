@@ -6,5 +6,5 @@ The system already has some basic features and animations - Theese can be seen o
 # Screenshots
 ![image](https://i.imgur.com/yaco6zr.jpg)
 ![image](https://i.imgur.com/XQvLSGJ.jpg)
-![GIF showing program in use](https://media2.giphy.com/media/5vQipCDwV1UcJJ7L35/giphy.gif?cid=790b7611f16c42891f61af95bd02d5675433863610a29544&rid=giphy.gif&ct=g)
+![GIF showing program in use](https://media.giphy.com/media/5vQipCDwV1UcJJ7L35/giphy-downsized-large.gif)
 
